@@ -1,0 +1,9 @@
+.logogo{
+    margin-top: 5%;margin-left: -40%;
+}
+@media (max-width: 920px){
+   .logogo{
+    width: 0px;
+   }
+}
+
